@@ -5,7 +5,7 @@
 | **1. `git init`**<br>Initializes a new Git repository in the current directory. Creates a `.git` folder where all changes will be tracked. | **1. `git init`**<br>Mevcut dizinde yeni bir Git deposu başlatır. Tüm değişikliklerin izleneceği `.git` klasörünü oluşturur. |
 | **Usage:**<br>`git init`<br>**Example:**<br>`mkdir my_project && cd my_project && git init` | **Kullanım:**<br>`git init`<br>**Örnek:**<br>`mkdir benim_projem && cd benim_projem && git init` |
 | **2. `git clone`**<br>Clones an existing repository from a remote source to your local machine. | **2. `git clone`**<br>Uzak bir kaynaktan mevcut bir depoyu yerel makinenize klonlar. |
-| **Usage:**<br>`git clone <repository-url>`<br>**Example:**<br>`git clone https://github.com/user/project.git` | **Kullanım:**<br>`git clone <repository-url>`<br>**Örnek:**<br>`git clone https://github.com/kullanici/proje.git` |
+| **Usage:**<br>`git clone <repository-url>`<br>**Example:**<br>`git clone https://github.com/nzrcn/git-commands---git-komutlari-.git` | **Kullanım:**<br>`git clone <repository-url>`<br>**Örnek:**<br>`git clone https://github.com/nzrcn/git-commands---git-komutlari-.git` |
 | **3. `git status`**<br>Shows the current state of the working directory and staging area, indicating changes. | **3. `git status`**<br>Çalışma dizini ve geçici alanın (staging area) durumunu gösterir, değişiklikleri belirtir. |
 | **Usage:**<br>`git status` | **Kullanım:**<br>`git status` |
 | **4. `git add`**<br>Adds changes in the working directory to the staging area in preparation for the next commit. | **4. `git add`**<br>Çalışma dizinindeki değişiklikleri bir sonraki commit için geçici alana ekler. |
